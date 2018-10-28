@@ -3,14 +3,14 @@
     <property name="created">2018-10-28T06:45:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2018-10-28T10:14:00</property>
+    <property name="modified">2018-10-28T10:21:01</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="45ffcf" />
-        <option name="EFFECT_COLOR" value="45ffcf" />
+        <option name="FOREGROUND" value="2a95c6" />
+        <option name="EFFECT_COLOR" value="2a95c6" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
