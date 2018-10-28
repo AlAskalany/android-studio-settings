@@ -12,6 +12,7 @@
   <component name="JavaCodeFoldingSettings">
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
+    <option name="collapseSuppressWarnings" value="false" />
   </component>
   <component name="OCCodeFoldingSettings">
     <option name="collapseMultilineComments" value="true" />
