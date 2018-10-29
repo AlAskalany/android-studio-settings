@@ -3,7 +3,7 @@
     <property name="created">2018-10-28T06:45:04</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2018-10-28T10:21:01</property>
+    <property name="modified">2018-10-29T07:48:29</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -38,8 +38,7 @@
     </option>
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="EFFECT_COLOR" value="9876aa" />
+        <option name="FOREGROUND" value="aa1e9c" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -65,12 +64,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="effcff" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
   </attributes>
 </scheme>
