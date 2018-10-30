@@ -1,8 +1,1 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
-    <mouse-shortcut keystroke="control button2" />
-    <keyboard-shortcut first-keystroke="shift a" second-keystroke="shift d" />
-  </action>
-</keymap>
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+" />
