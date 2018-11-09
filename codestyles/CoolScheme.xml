@@ -86,6 +86,10 @@
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
+    <option name="WRAP_ON_TYPING" value="1" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
     <arrangement>
       <groups>
         <group>
