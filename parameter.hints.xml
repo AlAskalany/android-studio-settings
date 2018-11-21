@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.example.com.split.UiHelper.shortToast(activity,s)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
