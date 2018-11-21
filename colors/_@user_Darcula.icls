@@ -3,13 +3,18 @@
     <property name="created">2018-11-21T11:02:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2018-11-21T22:45:15</property>
+    <property name="modified">2018-11-21T23:02:30</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="44c6c5" />
+      </value>
+    </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="deff72" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
